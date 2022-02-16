@@ -4,6 +4,7 @@
 - H2 Database
 - Spring JPA
 - MySQL Driver
+- JSON in JAVA
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
